@@ -1,0 +1,5 @@
+{
+  "name": "StyloBot 2",
+  "description": "A photorealistic virtual try-on application powered by Gemini. Upload a photo of a person and a garment image (or describe it with text) to see how it fits.",
+  "requestFramePermissions": []
+}
